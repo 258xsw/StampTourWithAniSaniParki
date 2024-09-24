@@ -15,7 +15,7 @@
 - 흑백/컬러 TV
     ![image](https://github.com/FelForest/StampTourWithAniSaniParki/assets/67967722/b44263c9-35bc-4122-ac90-e5366484a462)
 - 색칠놀이
-    ![image](https://github.com/FelForest/StampTourWithAniSaniParki/assets/67967722/3352ee72-3760-4933-b956-e7e8052464b9)
+    ![image](https://github.com/user-attachments/assets/42e53c5e-43b0-401a-8f5d-e1c794b6c155)
 - 사진촬영
     ![image](https://github.com/FelForest/StampTourWithAniSaniParki/assets/67967722/47471c2b-e64e-4e2a-bc46-fdb59a42f681)
 ---
